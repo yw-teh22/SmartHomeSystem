@@ -1,4 +1,4 @@
-# Smart Home System with Voice Control & Insights
+# Smart Home System with Security Alerts
 
 This project demonstrates a production-ready Smart Home Node implemented using **ESP RainMaker** and **ESP Insights**. It simulates a security system that can be controlled via **Phone App**, **Voice (Google Home/Alexa)**, and automated sensors, all while reporting detailed health diagnostics to the cloud.
 
