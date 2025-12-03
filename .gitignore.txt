@@ -1,0 +1,15 @@
+# Build directories and artifacts
+/build/
+/managed_components/
+sdkconfig
+sdkconfig.old
+
+# Editor directories
+.vscode/
+.devcontainer/
+.idea/
+.clangd
+
+# System files
+*.DS_Store
+Thumbs.db
